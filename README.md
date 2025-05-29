@@ -68,9 +68,9 @@ ATM/
 
 A continuación se muestran algunas vistas de la aplicación:
 
-![Menú de administración](./capturas/Menu-administracion.png)
-![Login](./capturas/Login.png)
-![Menú de cajero](./capturas/Menu-Cajero.png)
+![Image](https://github.com/user-attachments/assets/541cf403-0b76-4f1f-abed-7fa25e580aad)
+![Image](https://github.com/user-attachments/assets/3ff89658-0077-434b-b522-62ac3aaf44f2)
+![Image](https://github.com/user-attachments/assets/fbe795b9-51cf-4fc5-9502-86421b88c2f6)
 
 ## Créditos
 
